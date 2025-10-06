@@ -1,2 +1,2 @@
 # counter
-even and odd  counter program
+even and odd  counter program and prime count
